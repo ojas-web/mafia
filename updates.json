@@ -8,5 +8,14 @@
         "version": "Version 0.2",
         "date": "1 May 2026",
         "description": "Improved shooting and added disconnect popup."
-    }
+    },
+    {
+
+
+"version": "Version 0.3",
+        "date": "1 May 2026",
+        "description": "added team system"
+
+
+   }
 ]
