@@ -1,0 +1,12 @@
+[
+    {
+        "version": "Version 0.1",
+        "date": "30 April 2026",
+        "description": "Added multiplayer, guns, usernames, and movement system."
+    },
+    {
+        "version": "Version 0.2",
+        "date": "1 May 2026",
+        "description": "Improved shooting and added disconnect popup."
+    }
+]
